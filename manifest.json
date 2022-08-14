@@ -1,0 +1,13 @@
+﻿{
+  "name": "EmoTracker Official Zelda Mystery of Solarus Support",
+  "game_name": "A Zelda Mystery of Solarus Randomizer",
+  "platform": "pc",
+  "package_version": "1.0.0.1",
+  "package_uid": "zmos_emotracker",
+  "author": "BigJer",
+  "variants": {
+    "standard": {
+      "display_name": "Standard Map Tracker"
+    }
+  }
+}
